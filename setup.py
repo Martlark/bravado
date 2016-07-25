@@ -30,16 +30,12 @@ setup(
         "Programming Language :: Python :: 3.4",
     ],
     install_requires=[
-        "bravado-core >= 4.2.2",
-        "crochet >= 1.4.0",
-        "yelp_bytes",
-        "python-dateutil",
-        "pyyaml",
-        "requests",
-        "six",
+#        "bravado-core >= 4.2.2",
+#        "crochet >= 1.4.0",
+#        "yelp_bytes",
+#        "python-dateutil",
+#        "pyyaml",
+#        "requests",
+#        "six",
     ],
-    extras_require={
-        ':python_version=="2.6"': ['twisted >= 14.0.0, < 15.5'],
-        ':python_version!="2.6"': ['twisted >= 14.0.0'],
-    },
 )
