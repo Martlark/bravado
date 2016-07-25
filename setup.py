@@ -31,7 +31,7 @@ setup(
     ],
     install_requires=[
         "bravado-core >= 4.2.2",
-#        "crochet >= 1.4.0",
+        "crochet >= 1.4.0",
 #        "yelp_bytes",
 #        "python-dateutil",
 #        "pyyaml",
