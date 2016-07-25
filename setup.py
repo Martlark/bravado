@@ -36,6 +36,6 @@ setup(
         "python-dateutil",
         "pyyaml",
         "requests",
-        "six",
+        "six >= 1.10",
     ],
 )
